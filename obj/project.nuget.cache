@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kt8mGYgbCiiijQYQDuBer1QXfiL3Zc+w778SjtUHxnk7SepyXjr+9SKE88RxuIzjyutyI0JtctAKgnnauWuP4A==",
+  "dgSpecHash": "h0JRmFJX24KqVz+q9ruzIJEzDG6FwIwe9dwF8zsuSTbVd+jvfMSGf7ve7XnY4anQwD8d4igfmYTRpHm/CKIwzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lbust\\Desktop\\GoOpen Adnim\\apiusuarioadministrador\\apiUsuarioAdministrador.csproj",
+  "projectFilePath": "C:\\Users\\lbust\\Desktop\\GoOpen Adnim\\reposGit\\apiusuarioadministrador\\apiUsuarioAdministrador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lbust\\.nuget\\packages\\consul\\1.6.10.1\\consul.1.6.10.1.nupkg.sha512",
     "C:\\Users\\lbust\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",

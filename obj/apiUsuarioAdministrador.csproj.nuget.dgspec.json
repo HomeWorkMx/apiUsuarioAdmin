@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lbust\\Desktop\\GoOpen Adnim\\apiusuarioadministrador\\apiUsuarioAdministrador.csproj": {}
+    "C:\\Users\\lbust\\Desktop\\GoOpen Adnim\\reposGit\\apiusuarioadministrador\\apiUsuarioAdministrador.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lbust\\Desktop\\GoOpen Adnim\\apiusuarioadministrador\\apiUsuarioAdministrador.csproj": {
+    "C:\\Users\\lbust\\Desktop\\GoOpen Adnim\\reposGit\\apiusuarioadministrador\\apiUsuarioAdministrador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lbust\\Desktop\\GoOpen Adnim\\apiusuarioadministrador\\apiUsuarioAdministrador.csproj",
+        "projectUniqueName": "C:\\Users\\lbust\\Desktop\\GoOpen Adnim\\reposGit\\apiusuarioadministrador\\apiUsuarioAdministrador.csproj",
         "projectName": "apiUsuarioAdministrador",
-        "projectPath": "C:\\Users\\lbust\\Desktop\\GoOpen Adnim\\apiusuarioadministrador\\apiUsuarioAdministrador.csproj",
+        "projectPath": "C:\\Users\\lbust\\Desktop\\GoOpen Adnim\\reposGit\\apiusuarioadministrador\\apiUsuarioAdministrador.csproj",
         "packagesPath": "C:\\Users\\lbust\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lbust\\Desktop\\GoOpen Adnim\\apiusuarioadministrador\\obj\\",
+        "outputPath": "C:\\Users\\lbust\\Desktop\\GoOpen Adnim\\reposGit\\apiusuarioadministrador\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
