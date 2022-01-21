@@ -8,11 +8,7 @@ using apiUsuarioAdministrador.Models;
 
 using ProblemDetails = apiUsuarioAdministrador.Entities.ProblemDetails;
 using NotFoundResult = apiUsuarioAdministrador.Entities.NotFoundResult;
-<<<<<<< HEAD
-
-=======
 using System.ComponentModel.DataAnnotations;
->>>>>>> 3bc7ccd294a710a4390e5b94ae3b763aa42f3822
 
 namespace apiUsuarioAdministrador.Controllers
 {
@@ -170,9 +166,6 @@ namespace apiUsuarioAdministrador.Controllers
             var entidad = await _clientMsUsuario.UsuarioUpdateAsync(input);
             return Ok(entidad);
         }
-<<<<<<< HEAD
-        
-=======
 
         [HttpPost("UsuarioUpdateAltaBajaByIdUsuario")]
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(IEnumerable<UsuarioDto2>))]
@@ -231,7 +224,6 @@ namespace apiUsuarioAdministrador.Controllers
             return Ok(salida);
         }
 
->>>>>>> 3bc7ccd294a710a4390e5b94ae3b763aa42f3822
         [HttpDelete("UsuarioDelete")]
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(IEnumerable<UsuarioDto>))]
         [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(ProblemDetails))]
