@@ -33,5 +33,5 @@ jobs:
           username: goopen
           password: ${{ secrets.REGISTRY_SECRET }}
       - run: |
-            docker build . -t goopen.azurecr.io/apiusuarioadministrador:dev-latest
-            docker push goopen.azurecr.io/apiusuarioadministrador:dev-latest
+            docker build . -t goopen.azurecr.io/apiusuarioadministrador:dev-lastest
+            docker push goopen.azurecr.io/apiusuarioadministrador:dev-lastest
