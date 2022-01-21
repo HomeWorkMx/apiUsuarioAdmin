@@ -8,7 +8,11 @@ using apiUsuarioAdministrador.Models;
 
 using ProblemDetails = apiUsuarioAdministrador.Entities.ProblemDetails;
 using NotFoundResult = apiUsuarioAdministrador.Entities.NotFoundResult;
+<<<<<<< HEAD
 
+=======
+using System.ComponentModel.DataAnnotations;
+>>>>>>> 3bc7ccd294a710a4390e5b94ae3b763aa42f3822
 
 namespace apiUsuarioAdministrador.Controllers
 {
@@ -166,7 +170,68 @@ namespace apiUsuarioAdministrador.Controllers
             var entidad = await _clientMsUsuario.UsuarioUpdateAsync(input);
             return Ok(entidad);
         }
+<<<<<<< HEAD
         
+=======
+
+        [HttpPost("UsuarioUpdateAltaBajaByIdUsuario")]
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(IEnumerable<UsuarioDto2>))]
+        [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(ProblemDetails))]
+        [ProducesResponseType(StatusCodes.Status404NotFound, Type = typeof(NotFoundResult))]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError, Type = typeof(ProblemDetails))]
+        public async Task<ActionResult<IEnumerable<UsuarioDto2>>> UsuarioUpdateAltaBajaByIdUsuario(
+            [FromForm, Required] int id,
+            [FromForm, Required] int altaBaja)
+        {
+            var entidad = await _clientMsUsuario.UsuarioGetBasicAsync(id);
+            if (entidad == null) return NotFound();
+
+            entidad.AltaBaja = altaBaja;
+
+            var input = new UsuarioDto()
+            {
+                IdUsuario = entidad.IdUsuario,
+                NombreUsuario = entidad.NombreUsuario,
+                Contrasena = entidad.Contrasena,
+                Correo = entidad.Correo,
+                Telefono = entidad.Telefono,
+                Direccion = entidad.Direccion,
+                IdTipoUsuario = entidad.IdTipoUsuario,
+                RazonSocial = entidad.RazonSocial,
+                DatosFiscales = entidad.DatosFiscales,
+                PaginaWeb = entidad.PaginaWeb,
+                Descripcion = entidad.Descripcion,
+                FechaIngreso = entidad.FechaIngreso,
+                Imagen = entidad.Imagen,
+                BorradoLogico = entidad.BorradoLogico,
+                AltaBaja = entidad.AltaBaja
+            };
+
+            input = await _clientMsUsuario.UsuarioUpdateAsync(input);
+
+            var salida = new UsuarioDto2()
+            {
+                IdUsuario = input.IdUsuario,
+                NombreUsuario = input.NombreUsuario,
+                Contrasena = input.Contrasena,
+                Correo = input.Correo,
+                Telefono = input.Telefono,
+                Direccion = input.Direccion,
+                IdTipoUsuario = input.IdTipoUsuario,
+                RazonSocial = input.RazonSocial,
+                DatosFiscales = input.DatosFiscales,
+                PaginaWeb = input.PaginaWeb,
+                Descripcion = input.Descripcion,
+                FechaIngreso = input.FechaIngreso,
+                Imagen = input.Imagen,
+                BorradoLogico = input.BorradoLogico,
+                AltaBaja = input.AltaBaja
+            };
+
+            return Ok(salida);
+        }
+
+>>>>>>> 3bc7ccd294a710a4390e5b94ae3b763aa42f3822
         [HttpDelete("UsuarioDelete")]
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(IEnumerable<UsuarioDto>))]
         [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(ProblemDetails))]

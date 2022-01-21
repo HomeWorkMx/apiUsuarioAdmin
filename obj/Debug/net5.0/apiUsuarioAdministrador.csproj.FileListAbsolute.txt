@@ -1,0 +1,78 @@
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\appsettings.json
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\apiUsuarioAdministrador.exe
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\apiUsuarioAdministrador.deps.json
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\apiUsuarioAdministrador.runtimeconfig.json
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\apiUsuarioAdministrador.runtimeconfig.dev.json
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\apiUsuarioAdministrador.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\ref\apiUsuarioAdministrador.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\apiUsuarioAdministrador.pdb
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\Consul.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lbust\Desktop\apiusuario-master\bin\Debug\net5.0\Winton.Extensions.Configuration.Consul.dll
+C:\Users\lbust\Desktop\apiusuario-master\obj\Debug\net5.0\apiUsuarioAdministrador.csproj.AssemblyReference.cache
+C:\Users\lbust\Desktop\apiusuario-master\obj\Debug\net5.0\apiUsuarioAdministrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbust\Desktop\apiusuario-master\obj\Debug\net5.0\apiUsuarioAdministrador.AssemblyInfoInputs.cache
+C:\Users\lbust\Desktop\apiusuario-master\obj\Debug\net5.0\apiUsuarioAdministrador.AssemblyInfo.cs
+C:\Users\lbust\Desktop\apiusuario-master\obj\Debug\net5.0\apiUsuarioAdministrador.csproj.CoreCompileInputs.cache
+C:\Users\lbust\Desktop\apiusuario-master\obj\Debug\net5.0\apiUsuarioAdministrador.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lbust\Desktop\apiusuario-master\obj\Debug\net5.0\apiUsuarioAdministrador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lbust\Desktop\apiusuario-master\obj\Debug\net5.0\scopedcss\bundle\apiUsuarioAdministrador.styles.css
+C:\Users\lbust\Desktop\apiusuario-master\obj\Debug\net5.0\staticwebassets\apiUsuarioAdministrador.StaticWebAssets.Manifest.cache
+C:\Users\lbust\Desktop\apiusuario-master\obj\Debug\net5.0\apiUsuarioAdministrador.RazorTargetAssemblyInfo.cache
+C:\Users\lbust\Desktop\apiusuario-master\obj\Debug\net5.0\apiUsuarioAdministrador.csproj.CopyComplete
+C:\Users\lbust\Desktop\apiusuario-master\obj\Debug\net5.0\apiUsuarioAdministrador.dll
+C:\Users\lbust\Desktop\apiusuario-master\obj\Debug\net5.0\ref\apiUsuarioAdministrador.dll
+C:\Users\lbust\Desktop\apiusuario-master\obj\Debug\net5.0\apiUsuarioAdministrador.pdb
+C:\Users\lbust\Desktop\apiusuario-master\obj\Debug\net5.0\apiUsuarioAdministrador.genruntimeconfig.cache
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\appsettings.json
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\apiUsuarioAdministrador.exe
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\apiUsuarioAdministrador.deps.json
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\apiUsuarioAdministrador.runtimeconfig.json
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\apiUsuarioAdministrador.runtimeconfig.dev.json
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\apiUsuarioAdministrador.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\ref\apiUsuarioAdministrador.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\apiUsuarioAdministrador.pdb
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\Consul.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\bin\Debug\net5.0\Winton.Extensions.Configuration.Consul.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\obj\Debug\net5.0\apiUsuarioAdministrador.csproj.AssemblyReference.cache
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\obj\Debug\net5.0\apiUsuarioAdministrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\obj\Debug\net5.0\apiUsuarioAdministrador.AssemblyInfoInputs.cache
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\obj\Debug\net5.0\apiUsuarioAdministrador.AssemblyInfo.cs
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\obj\Debug\net5.0\apiUsuarioAdministrador.csproj.CoreCompileInputs.cache
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\obj\Debug\net5.0\apiUsuarioAdministrador.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\obj\Debug\net5.0\apiUsuarioAdministrador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\obj\Debug\net5.0\scopedcss\bundle\apiUsuarioAdministrador.styles.css
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\obj\Debug\net5.0\staticwebassets\apiUsuarioAdministrador.StaticWebAssets.Manifest.cache
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\obj\Debug\net5.0\apiUsuarioAdministrador.RazorTargetAssemblyInfo.cache
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\obj\Debug\net5.0\apiUsuarioAdministrador.csproj.CopyComplete
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\obj\Debug\net5.0\apiUsuarioAdministrador.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\obj\Debug\net5.0\ref\apiUsuarioAdministrador.dll
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\obj\Debug\net5.0\apiUsuarioAdministrador.pdb
+C:\Users\lbust\Desktop\GoOpen Adnim\reposGit\apiusuarioadministrador\obj\Debug\net5.0\apiUsuarioAdministrador.genruntimeconfig.cache
